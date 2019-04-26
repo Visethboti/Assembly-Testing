@@ -1,6 +1,8 @@
 INCLUDE Irvine32.inc
 WriteString PROTO
 
+;Assembly Language
+
 .data
 	;target BYTE "0123ABAAABAAAABA789", 0				; "ABCDEFGHIJKLMNOPQRSTUVXYZ"
 	;source BYTE "AABA", 0
